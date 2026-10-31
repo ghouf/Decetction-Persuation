@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+.env
+
+# Model weights & checkpoints (exceed GitHub 100MB limit)
+saved_models/
+**/saved_models/
+*.safetensors
+*.bin
+*.pt
