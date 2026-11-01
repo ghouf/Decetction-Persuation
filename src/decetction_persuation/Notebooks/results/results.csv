@@ -1,0 +1,2 @@
+Modèle,Prétraitement,Graine,Test_Micro_F1,Test_Macro_F1,Précision,Rappel,Robustesse (Chute Genre F2),Temps_Train (s),Latence_CPU (ms),Taille (Mo),Nb_Paramètres
+UBC-NLP/MARBERTv2 (Asymmetric Loss),Nettoyage arabe + Outliers (<100 mots),42,0.5821,0.1558,0.5566,0.6102,4.20%,1600.0,56.42,621.3,"162,859,800"
